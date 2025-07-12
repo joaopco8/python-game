@@ -1,6 +1,4 @@
-# Aventura Submarina: O Resgate dos Corais
-
-# Aventura Submarina: O Resgate dos Corais
+# Aventura Submarina: O Resgate dos Corais (Python)
 
 ![Screenshot do jogo](assets/images/aventure-.png)
 
