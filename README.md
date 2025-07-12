@@ -1,5 +1,10 @@
 # Aventura Submarina: O Resgate dos Corais
 
+# Aventura Submarina: O Resgate dos Corais
+
+![Screenshot do jogo](assets/images/aventure-.png)
+
+
 Um jogo 2D side-scroller submarino desenvolvido em Python com pygame.
 
 ## Estrutura do Projeto
