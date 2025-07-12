@@ -16,7 +16,7 @@ class Background:
         self.largura = largura
         self.altura = altura
         
-        # Carrega a imagem de fundo
+        # Carrega a imagem de fundooooo
         self.carregar_background()
     
     def carregar_background(self):
